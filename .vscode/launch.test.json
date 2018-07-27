@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "pss_antlr4_grammar",
+                "projectName": "pss_antlr4_grammar",
+                "workingDirectory": "c:\\Users\\htan31\\Documents\\My Stuff\\My Project\\pss_antlr4_grammar",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "pss_antlr4_grammar",
+                "projectName": "pss_antlr4_grammar",
+                "workingDirectory": "c:\\Users\\htan31\\Documents\\My Stuff\\My Project\\pss_antlr4_grammar",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
