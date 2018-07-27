@@ -1,7 +1,6 @@
 package io.github.hongping;
 
 import org.junit.Test;
-
 import junit.framework.TestCase;
 
 /**
