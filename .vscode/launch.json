@@ -15,12 +15,5 @@
             "projectName": "pss_antlr4_grammar",
             "args": ""
         },
-        {
-            "type": "java",
-            "name": "Debug (Attach)",
-            "request": "attach",
-            "hostName": "localhost",
-            "port": 0
-        }
     ]
 }
